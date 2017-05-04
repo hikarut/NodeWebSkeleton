@@ -24,7 +24,7 @@ $ npm run start
 
 ### using
 * Node.js
-* express
+* Express
 * Webpack2
 * Bootstrap
 * ESLint
