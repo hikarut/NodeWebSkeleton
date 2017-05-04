@@ -26,5 +26,6 @@ $ npm run start
 * Node.js
 * express
 * Webpack2
- * bootstrap
- * AVA
+* Bootstrap
+* ESLint
+* AVA
