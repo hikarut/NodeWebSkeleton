@@ -20,6 +20,7 @@ $ npm run start
 5. Open page
  * http://localhost:8080/
 
+![page](https://qiita-image-store.s3.amazonaws.com/0/110485/fd72e606-b547-44fd-5891-0c3af68f71ae.png)
 
 ### using
 * Node.js
