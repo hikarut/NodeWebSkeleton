@@ -21,5 +21,5 @@ app.use(express.static('template'));
 app.get('*', routes.index);
 
 app.listen(8080, function() {
-    console.log("start!");
+    console.log("Start!\n> http://localhost:8080/");
 });
